@@ -51,6 +51,6 @@ const AppContainer = createAppContainer(TabNavigator);
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'cener',
+    justifyContent: 'center',
   },
 });
